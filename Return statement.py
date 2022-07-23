@@ -4,7 +4,7 @@ def withWhoWantTalk(robo, question):
     question_int = int(question)
 
     #   1>>> Olga:
-                    #>> Que: 1
+                    # >> Que: 1
                     # >> Que: 2
                     # >> Que: 3
     #   2>>> Krzychu:
